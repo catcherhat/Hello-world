@@ -1,4 +1,4 @@
-                                                                        PORTFOLIO
+                                                                 PORTFOLIO
 
 
 Every content starts with an introduction.So here is an introduction about portfolio.We have heard about portfolio .What is portfolio? A portfolio is a collection of financial investments like stocks, bonds, commodities, cash, and cash equivalents, including closed-end funds and exchange-traded funds (ETFs). People generally believe that stocks, bonds, and cash comprise the core of a portfolio. Though this is often the case, it does not need to be the rule. A portfolio may contain a wide range of assets including real estate, art, and private investments. 
