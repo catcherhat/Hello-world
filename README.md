@@ -38,5 +38,6 @@ IMPACTS:
 In contrast, a risk-tolerant investor might add some small-cap growth stocks to an aggressive, large-cap growth stock position, assume some high-yield bond exposure, and look to real estate, international, and alternative investment opportunities for their portfolio. In general, an investor should minimize exposure to securities or asset classes whose volatility makes them uncomfortable.
  
  CONCLUSION:
- I am sure that now you have an idea about what is a portfolio ,its usage,different types of portfoliosand its impacts in risk toerance.Grab your knowlegde to the peak.
+ 
+ I am sure that now you have an idea about what is a portfolio ,its usage,different types of portfolios and its impacts in risk-tolerance.Grab your knowlegde to the peak.
  Well begun is half done!:)
